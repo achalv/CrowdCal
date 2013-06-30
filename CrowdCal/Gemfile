@@ -26,6 +26,13 @@ gem 'jquery-rails'
 
 gem 'flat-ui-rails'
 
+# Gem added by Danish
+gem 'devise'
+gem 'omniauth'
+gem 'omniauth-facebook'
+
+gem 'annotate'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
